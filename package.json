@@ -1,0 +1,46 @@
+{
+  "name": "passport-beam",
+  "version": "1.0.0",
+  "description": "Beam (OAuth) authentication strategies for Passport.",
+  "keywords": [
+    "passport",
+    "beam",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alfw/passport-hitbox.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alfw/passport-hitbox/issues"
+  },
+  "author": {
+    "name": "AlfW"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib/passport-beam",
+  "dependencies": {
+    "pkginfo": "0.2.x",
+    "passport-oauth": "~1.x.x"
+  },
+  "devDependencies": {
+    "vows": "0.6.x"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "maintainers": [
+    {
+      "name": "alfw"
+    }
+  ],
+  "readme": "ERROR: No README data found!"
+}
