@@ -38,7 +38,7 @@ authenticate requests.
 For example, as route middleware in an [Express](http://expressjs.com/)
 application:
 
-    app.get('/auth/BEAM',
+    app.get('/auth/beam',
       passport.authenticate('beam'));
 
     app.get('/auth/beam/callback',
