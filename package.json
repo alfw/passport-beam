@@ -1,6 +1,6 @@
 {
   "name": "passport-beam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Beam (OAuth) authentication strategies for Passport.",
   "keywords": [
     "passport",
